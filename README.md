@@ -1,4 +1,4 @@
-<h1 align="center">✅ Lista de Tarefas</h1>
+<h1 align="center">Lista de Tarefas</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-8a2be2?style=for-the-badge&logo=python&logoColor=white" />
@@ -18,17 +18,17 @@
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
-- ➕ Adicionar tarefas (pelo botão ou com **Enter**)
-- ✔️ Marcar como **feita** ou **não feita**
-- 🗑️ Remover uma tarefa ou **limpar todas**
-- 📅 Data de criação de cada tarefa
-- 📊 Contador de tarefas totais, feitas e não feitas
-- 🌗 **Tema claro e escuro**, lembrado pelo navegador
-- 💾 Tarefas salvas em arquivo: continuam lá mesmo depois de fechar o servidor
+- Adicionar tarefas (pelo botão ou com **Enter**)
+- Marcar como **feita** ou **não feita**
+- Remover uma tarefa ou **limpar todas**
+- Data de criação de cada tarefa
+- Contador de tarefas totais, feitas e não feitas
+- **Tema claro e escuro**, lembrado pelo navegador
+- Tarefas salvas em arquivo: continuam lá mesmo depois de fechar o servidor
 
-## 🔌 API
+## API
 
 O front-end conversa com o back-end usando `fetch` e JSON:
 
@@ -51,7 +51,7 @@ Exemplo de tarefa:
 }
 ```
 
-## 📂 Estrutura
+## Estrutura
 
 ```
 lista-de-tarefas/
@@ -66,30 +66,10 @@ lista-de-tarefas/
 
 > O arquivo `tarefas.json` é criado automaticamente na primeira tarefa adicionada.
 
-## 🧠 O que o projeto pratica
+## O que o projeto pratica
 
 - Criação de uma **API REST** com Flask (`GET`, `POST`, `PUT`, `DELETE`)
 - Leitura e gravação de dados em **JSON**
 - Requisições assíncronas com `fetch`, `async` e `await`
 - Criação de elementos dinamicamente com o **DOM**
 - Variáveis CSS para alternar entre temas e `localStorage` para lembrar a escolha
-
-## ▶️ Como executar
-
-Precisa do **Python 3** instalado.
-
-```bash
-# 1. Instale o Flask
-pip install -r requirements.txt
-
-# 2. Inicie o servidor
-python app.py
-```
-
-Depois, acesse **http://127.0.0.1:5000** no navegador.
-
----
-
-<p align="center">
-  Feito com 💜 por <a href="https://github.com/NicoleCandido">Nicole Cândido</a>
-</p>
