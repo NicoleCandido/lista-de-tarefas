@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "texto": "Lavar a Louça",
+    "feito": false,
+    "data": "29/10/2026"
+  },
+  {
+    "id": 2,
+    "texto": "Estudar",
+    "feito": false,
+    "data": "29/10/2026"
+  },
+  {
+    "id": 3,
+    "texto": "Preparar material de aula",
+    "feito": false,
+    "data": "29/10/2026"
+  },
+  {
+    "id": 4,
+    "texto": "Ler",
+    "feito": false,
+    "data": "29/10/2026"
+  }
+]

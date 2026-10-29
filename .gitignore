@@ -1,0 +1,11 @@
+# Tarefas salvas localmente (cada pessoa tem as suas)
+tarefas.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Configurações do editor
+.vscode/
