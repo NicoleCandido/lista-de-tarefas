@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="preview.png" alt="Prévia da lista de tarefas" width="600" />
+  <img src="Lista.png" alt="Prévia da lista de tarefas" width="600" />
 </p>
 
 ---
